@@ -1,0 +1,11 @@
+Id,student,language,proficiency
+1,Student_A,Python,intermediate
+2,Student_B,Java,expert
+3,Student_C,Java,advanced
+4,Student_D,C#,beginner
+5,Student_E,Python,expert
+6,Student_F,HTML,beginner
+7,Student_G,Rust,beginner
+8,Student_H,Python,advanced
+9,Student_I,HTML,advanced
+10,Student_J,Terraform,intermediate
