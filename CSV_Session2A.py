@@ -7,7 +7,7 @@ def csv_reader(filename):
     print("1")
     with open(filename) as csv_file:
       print("2")
-      csv_data=csv.reader<csv_file)
+      csv_data=csv.reader(csv_file)
       print("3")
       for csv_record in csv_data:
         print(csv_record)
