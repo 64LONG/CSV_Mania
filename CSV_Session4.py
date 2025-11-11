@@ -105,7 +105,7 @@ def csv_reader(filename):
 
 try:
   print('Processing CSV file')
-  csv.reader('/<Enter path to the .csv file here>')
+  csv_reader('/<Enter path to the .csv file here>')
 except:
   print ("Unable to find file")
 #input ('Please press ENTER to exit')
